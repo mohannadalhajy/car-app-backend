@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "Title": "800 F1rst",
+                "Link": "tel:80031778",
+                "createdAt": "2023-04-07T08:55:10.236Z",
+                "updatedAt": "2023-05-11T12:19:22.826Z",
+                "publishedAt": "2023-04-07T08:55:33.717Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "Title": "Sheikh zayed road, Dubai",
+                "Link": "https://goo.gl/maps/AAGnyzDGE2Ge4NeDA",
+                "createdAt": "2023-04-07T08:56:22.616Z",
+                "updatedAt": "2023-05-09T13:58:41.476Z",
+                "publishedAt": "2023-04-07T08:56:23.578Z"
+            }
+        }
+    ]
+}
